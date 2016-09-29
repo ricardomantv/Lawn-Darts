@@ -87,6 +87,7 @@
 'Assets/AllStarCharacterLibray/Scripts/RootMotionOff.cs'
 'Assets/AllStarCharacterLibray/Scripts/SkinnedMeshCombiner.cs'
 'Assets/_Scripts/Dart_Script.cs'
+'Assets/_Scripts/Enemy_Spawn.cs'
 'Assets/_Scripts/Mom_Script.cs'
 'Assets/_Scripts/Throw_Script.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'

@@ -23,7 +23,7 @@ public class Mom_Script : MonoBehaviour {
 			Act ();
 		} else {
 			//Body disappears after 2 seconds
-			StartCoroutine (Disappear (2));
+			StartCoroutine (Disappear (5));
 		}
 	}
 

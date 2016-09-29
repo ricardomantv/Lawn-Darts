@@ -52,6 +52,7 @@
      <Compile Include="Assets\AllStarCharacterLibray\Scripts\RootMotionOff.cs" />
      <Compile Include="Assets\AllStarCharacterLibray\Scripts\SkinnedMeshCombiner.cs" />
      <Compile Include="Assets\_Scripts\Dart_Script.cs" />
+     <Compile Include="Assets\_Scripts\Enemy_Spawn.cs" />
      <Compile Include="Assets\_Scripts\Mom_Script.cs" />
      <Compile Include="Assets\_Scripts\Throw_Script.cs" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
