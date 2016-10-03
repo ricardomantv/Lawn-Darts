@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/Physics_Demo.unity
+- path: Assets/_Scenes/Tutorial.unity
   isLoaded: 1
   isActive: 1
